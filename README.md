@@ -1,1 +1,4 @@
 # Statstical-ML-models-with-spark
+The primary goal for this project is to use Apache Spark for building statistical Machine learning models to enhance efficiency and minimize processing time. I will be working with the same dataset from a previous project, which is found on Kaggle that focuses on Student Performance Factors (Link for the dataset), it provides a comprehensive overview of various elements affecting student performance in exams, including study habits, attendance, and parental involvement. The dataset contains 6,607 records and 20 features.
+
+To reach the goals, I will set up an environment with two virtual machines (VMs) running Apache Spark one as the master and the other as a worker.I will compare the performance of using two VMs as workers with just one VM as the worker,and report on which setup is more efficient. This project will demonstrate the benefits of distributed computing with Spark and provide insights into student performance factors.
